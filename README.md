@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hoja de Vida</title>
+  <title>Hoja de Vida</title> 
   <style>
     body {
       font-family: Arial, sans-serif;
